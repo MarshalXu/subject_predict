@@ -22,3 +22,6 @@
 ### 训练语料所需格式
 
     一句话<__label__+label值+"\t"+"分好词的语料">
+
+### 参考资料
+https://www.icode9.com/content-1-958029.html
